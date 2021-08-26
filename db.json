@@ -1,0 +1,26 @@
+{
+    "students": [
+      {
+        "name": "Mohammad Ajmal Hanee",
+        "phone": "9901306336",
+        "address": "1-269 Ajjinadka House",
+        "city": "Vittal",
+        "postcode": "574243",
+        "country": "India",
+        "longitude": "75.137583",
+        "latitude": "12.726952",
+        "id": 1
+      },
+      {
+        "name": "Sharique Ahmed",
+        "phone": "6360497608",
+        "address": "Flat No. 201",
+        "city": "Derlakatte",
+        "postcode": "575009",
+        "country": "India",
+        "longitude": "74.89476",
+        "latitude": "12.80877",
+        "id": 2
+      }
+    ]
+  }
